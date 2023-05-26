@@ -1,0 +1,190 @@
+
+body{
+    
+background-image: url("Imagenes/Imagen2.png");
+background-repeat: repeat;
+background-attachment: fixed;
+}
+
+
+
+
+.Caja1{
+    background-color: rgb(138, 222, 146);
+    width: 870px;
+    height: 130px;
+    padding: 15px;
+    float: left;
+    color: rgb(55, 211, 58);
+    text-align: center;
+    font-size: 23px;
+    font-family: 'Oswald', sans-serif;
+    
+
+    }
+
+
+.Caja2{
+    background-color: rgb(197, 226, 83);
+    width: 345px;
+    height: 1150px;
+    padding: 15px;
+    float: left;
+    color: rgb(75, 74, 74);
+  
+}
+
+.Caja3{
+    background-color:rgb(211, 255, 146);
+    width: 495px;
+    height: 1150px;
+    padding: 15px;
+    float: left;
+    color: rgb(75, 74, 74);
+    
+}
+
+.Contenedor{
+    background-color: rgb(138, 222, 146);
+        width: 900px;
+        height: 1340px;
+        margin: 0px auto;
+    border: 17px dashed rgb(78, 218, 80)}
+
+
+h2{
+    font-size: 18px;
+    font-family: 'Oswald', sans-serif;
+    color: rgb(125, 176, 6)
+}
+
+h3{
+    font-size: 18px;
+    font-family: 'Oswald', sans-serif;
+    color:rgb(167, 200, 3)
+    
+}
+p{
+    text-align: justify;
+    font-family: 'Oswald', sans-serif;
+    
+}
+ ul{
+    font-family: 'Oswald', sans-serif;
+    
+ }
+
+li{
+    font-weight: bold;
+    color: rgb(109, 139, 83);
+    }
+
+hr{
+    border: 2px solid rgb(178, 216, 26);
+ }
+
+
+.Correo{
+    width: 25px;
+    height: 25px;
+    
+    
+}
+.Teléfono{
+    width: 25px;
+    height: 25px;
+    
+   
+    }
+
+.Dirección{
+    width: 25px;
+    height: 25px;
+}
+ 
+.HTML{
+    border-radius: 5px solid red;
+}
+
+.Foto{
+    width: 125px;
+    height: 125px;
+    border-radius: 60px;
+    float: left;
+    border: 7px solid;
+    color: rgb(55, 211, 58);
+    }
+
+.Porcentaje1{
+    width: 200px;
+    height: 20px;
+   background-color:rgb(201, 236, 64);
+    position: relative;
+}
+  
+
+.Porcentaje1::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 30%;
+  height: 100%;
+  background-color:rgb(74, 208, 69);  
+  z-index: 1;
+}
+
+.Porcentaje2{
+    width: 200px;
+    height: 20px;
+   background-color:rgb(201, 236, 64);
+    position: relative;
+}
+  
+
+.Porcentaje2::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 30%;
+  height: 100%;
+  background-color:rgb(74, 208, 69); 
+  z-index: 1;
+}
+.Porcentaje3{
+    width: 200px;
+    height: 20px;
+   background-color:rgb(201, 236, 64);
+    position: relative;
+}
+  
+
+.Porcentaje3::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 30%;
+  height: 100%;
+  background-color:rgb(74, 208, 69); 
+  z-index: 1;
+}
+.Porcentaje4{
+    width: 200px;
+    height: 20px;
+   background-color:rgb(201, 236, 64);
+    position: relative;
+}
+  
+
+.Porcentaje4::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 30%;
+  height: 100%;
+  background-color:rgb(74, 208, 69); 
+  z-index: 1;
+}
